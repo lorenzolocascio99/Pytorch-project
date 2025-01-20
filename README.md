@@ -1,4 +1,4 @@
-# Pytorch-project
+# Pytorch - polynomial regression project
 
 Problem Description: You are given a dataset generated from a cubic polynomial function with added noise. Your task is to use PyTorch to estimate the coefficients of this polynomial.
 
